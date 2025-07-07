@@ -1,18 +1,25 @@
 - title: "Systematic Design of Ring VCO-Based SNN - Translating Training Parameters to Circuits -"
-  author: "Sai Sanjeet, Sanchari Das, Shiuh-Hua Wood Chiang, Masahiro Fujita, Bibhu Datta Sahoo"
+  author: "Sai Sanjeet, Sanchari Das, Shiuh-Hua Wood Chiang, Masahiro Fujita, and Bibhu Datta Sahoo"
   booktitle: "IEEE Open Journal of Circuits and Systems"
   year: "In-Print"
   # url: "https://doi.org/10.1109/OJCAS.2025.3585654"
 
+- title: "High Accuracy RF Modulation Recognition using Low-Dimensional Encoder-based SNN"
+  author: "Sai Sanjeet and Bibhu Datta Sahoo"
+  booktitle: "2025 IEEE International Symposium on Circuits and Systems (ISCAS)"
+  year: 2025
+  pages: "1-5"
+  url: "https://doi.org/10.1109/ISCAS56072.2025.11043633"
+
 - title: "Machine Learning Based Calibration Techniques for ADCs: An Overview"
-  author: "Tuan Quang Pham, Sai Sanjeet, Bibhu Datta Sahoo"
+  author: "Tuan Quang Pham, Sai Sanjeet, and Bibhu Datta Sahoo"
   booktitle: "2025 IEEE 43rd VLSI Test Symposium (VTS)"
   year: 2025
   pages: "1-5"
   url: "https://doi.org/10.1109/VTS65138.2025.11022920"
 
 - title: "Breaking the Barriers of One-to-One Usage of Implicit Neural Representation in Image Compression: A Linear Combination Approach With Performance Guarantees"
-  author: "Sai Sanjeet, Seyyedali Hosseinalipour, Jinjun Xiong, Masahiro Fujita, Bibhu Datta Sahoo"
+  author: "Sai Sanjeet, Seyyedali Hosseinalipour, Jinjun Xiong, Masahiro Fujita, and Bibhu Datta Sahoo"
   booktitle: "IEEE Internet of Things Journal"
   year: 2025
   volume: "12"
@@ -21,7 +28,7 @@
   url: "https://doi.org/10.1109/JIOT.2024.3502690"
 
 - title: "SpikePipe: Accelerated Training of Spiking Neural Networks via Inter-Layer Pipelining and Multiprocessor Scheduling"
-  author: "Sai Sanjeet, Bibhu Datta Sahoo, Keshab K. Parhi"
+  author: "Sai Sanjeet, Bibhu Datta Sahoo, and Keshab K. Parhi"
   booktitle: "IEEE Transactions on Circuits and Systems for Artificial Intelligence"
   year: 2024
   volume: "1"
@@ -30,7 +37,7 @@
   url: "https://doi.org/10.1109/TCASAI.2024.3496837"
 
 - title: "Variable Resolution Pixel Quantization for Low Power Machine Vision Application on Edge"
-  author: "Senorita Deb, Sai Sanjeet, Prabir Kumar Biswas, Bibhu Datta Sahoo"
+  author: "Senorita Deb, Sai Sanjeet, Prabir Kumar Biswas, and Bibhu Datta Sahoo"
   booktitle: "IEEE Journal on Emerging and Selected Topics in Circuits and Systems"
   year: 2025
   volume: "15"
@@ -39,14 +46,14 @@
   url: "https://doi.org/10.1109/JETCAS.2024.3490504"
 
 - title: "Systematic Design of Ring VCO-Based SNN - Translating Training Parameters to Circuits -"
-  author: "Sai Sanjeet, Sanchari Das, Shiuh-Hua Wood Chiang, Masahiro Fujita, Bibhu Datta Sahoo"
+  author: "Sai Sanjeet, Sanchari Das, Shiuh-Hua Wood Chiang, Masahiro Fujita, and Bibhu Datta Sahoo"
   booktitle: "2024 IEEE 67th International Midwest Symposium on Circuits and Systems (MWSCAS)"
   year: 2024
   pages: "1212-1216"
   url: "https://doi.org/10.1109/MWSCAS60917.2024.10658910"
 
 - title: "MEFET-Based CAM/TCAM for Memory-Augmented Neural Networks"
-  author: "Sai Sanjeet, Jonathan Bird, Bibhu Datta Sahoo"
+  author: "Sai Sanjeet, Jonathan Bird, and Bibhu Datta Sahoo"
   booktitle: "IEEE Journal on Exploratory Solid-State Computational Devices and Circuits"
   year: 2024
   volume: "10"
@@ -54,21 +61,21 @@
   url: "https://doi.org/10.1109/JXCDC.2024.3410681"
 
 - title: "Noise Resilience of Reduced Precision Neural Networks"
-  author: "Sai Sanjeet, Sannidhi Boppana, Bibhu Datta Sahoo, Masahiro Fujita"
+  author: "Sai Sanjeet, Sannidhi Boppana, Bibhu Datta Sahoo, and Masahiro Fujita"
   booktitle: "Proceedings of the 13th International Symposium on Highly Efficient Accelerators and Reconfigurable Technologies"
   year: 2023
   pages: "114-118"
   url: "https://doi.org/10.1145/3597031.3597058"
 
 - title: "IIR Filter-Based Spiking Neural Network"
-  author: "Sai Sanjeet, Rahul K. Meena, Bibhu Datta Sahoo, Keshab K. Parhi, Masahiro Fujita"
+  author: "Sai Sanjeet, Rahul K. Meena, Bibhu Datta Sahoo, Keshab K. Parhi, and Masahiro Fujita"
   booktitle: "2023 IEEE International Symposium on Circuits and Systems (ISCAS)"
   year: 2023
   pages: "1-5"
   url: "https://doi.org/10.1109/ISCAS46773.2023.10182209"
 
 - title: "Transition Point Estimation Using RC-Filtered Square Wave for Calibration of SAR ADC"
-  author: "Sai Sanjeet, Shruti Konwar, Bibhu Datta Sahoo"
+  author: "Sai Sanjeet, Shruti Konwar, and Bibhu Datta Sahoo"
   booktitle: "IEEE Transactions on Circuits and Systems II: Express Briefs"
   year: 2023
   volume: "70"
@@ -77,7 +84,7 @@
   url: "https://doi.org/10.1109/TCSII.2023.3257304"
 
 - title: "Low-Energy Real FFT Architectures and Their Applications to Seizure Prediction from EEG"
-  author: "Sai Sanjeet, Bibhu Datta Sahoo, Keshab K. Parhi"
+  author: "Sai Sanjeet, Bibhu Datta Sahoo, and Keshab K. Parhi"
   booktitle: "Analog Integrated Circuits and Signal Processing"
   year: 2022
   volume: "114"
@@ -86,7 +93,7 @@
   url: "https://doi.org/10.1007/s10470-022-02094-z"
 
 - title: "Energy-Efficient FPGA Implementation of Power-of-2 Weights-Based Convolutional Neural Networks With Low Bit-Precision Input Images"
-  author: "Sai Sanjeet, Bibhu Datta Sahoo, Masahiro Fujita"
+  author: "Sai Sanjeet, Bibhu Datta Sahoo, and Masahiro Fujita"
   booktitle: "IEEE Transactions on Circuits and Systems II: Express Briefs"
   year: 2023
   volume: "70"
@@ -95,14 +102,14 @@
   url: "https://doi.org/10.1109/TCSII.2022.3216516"
 
 - title: "Comparison of Real-Valued FFT Architectures for Low-Throughput Applications using FPGA"
-  author: "Sai Sanjeet, Bibhu Datta Sahoo, Keshab K. Parhi"
+  author: "Sai Sanjeet, Bibhu Datta Sahoo, and Keshab K. Parhi"
   booktitle: "2021 IEEE International Midwest Symposium on Circuits and Systems (MWSCAS)"
   year: 2021
   pages: "112-115"
   url: "https://doi.org/10.1109/MWSCAS47672.2021.9531878"
 
 - title: "Adder-Only Convolutional Neural Network with Binary Input Image"
-  author: "Mayank Palaria, Sai Sanjeet, Bibhu Datta Sahoo, Masahiro Fujita"
+  author: "Mayank Palaria, Sai Sanjeet, Bibhu Datta Sahoo, and Masahiro Fujita"
   booktitle: "2019 IEEE 62nd International Midwest Symposium on Circuits and Systems (MWSCAS)"
   year: 2019
   pages: "319-322"
