@@ -1,8 +1,10 @@
-- title: "Systematic Design of Ring VCO-Based SNN - Translating Training Parameters to Circuits -"
+- title: "Systematic Design of Ring VCO-Based SNN—Translating Training Parameters to Circuits"
   author: "Sai Sanjeet, Sanchari Das, Shiuh-Hua Wood Chiang, Masahiro Fujita, and Bibhu Datta Sahoo"
   booktitle: "IEEE Open Journal of Circuits and Systems"
-  year: "In-Print"
-  # url: "https://doi.org/10.1109/OJCAS.2025.3585654"
+  year: 2025
+  volume: "6"
+  pages: "283-294"
+  url: "https://doi.org/10.1109/OJCAS.2025.3585654"
 
 - title: "High Accuracy RF Modulation Recognition using Low-Dimensional Encoder-based SNN"
   author: "Sai Sanjeet and Bibhu Datta Sahoo"
